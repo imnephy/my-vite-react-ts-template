@@ -1,1 +1,1 @@
-# rs-school-react
+# react, ts, scss build for react
