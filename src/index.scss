@@ -1,0 +1,21 @@
+@import url(https://fonts.googleapis.com/css?family=Montserrat:300,regular,500,700,800,italic);
+// -------zero-style------
+body,
+html {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 1em;
+}
+* {
+  font-family: Montserrat;
+}
+ul {
+  list-style: none;
+  margin: 0;
+  margin-left: -40px;
+}
+* {
+  box-sizing: border-box;
+}
